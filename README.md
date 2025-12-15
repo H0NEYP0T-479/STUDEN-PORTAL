@@ -20,9 +20,10 @@ The portal uses the official LGU logo located at `assets/lgu.png`. The logo appe
 - Profile page
 
 Logo specifications:
-- Size: 148x148px
+- Original dimensions: 148x148px (square)
 - Display height: 38px (automatically scaled with CSS)
-- Format: JPEG (`.png` extension)
+- File format: JPEG image data (despite `.png` file extension)
+- File size: ~8KB
 
 ## Project Structure
 
